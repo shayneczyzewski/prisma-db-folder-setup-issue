@@ -1,0 +1,5 @@
+-- CreateTable
+CREATE TABLE "Foo" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "bar" TEXT NOT NULL
+);
